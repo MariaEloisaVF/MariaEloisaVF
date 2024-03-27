@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou Maria Eloisa
 
-- 🌱 Atualmente estou estudando JavaScript
+- 🌱 Atualmente estou estudando Java
 - 😄 Pronomes: Ela/Dela
 
 ### Formação
